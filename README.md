@@ -46,7 +46,7 @@
 
 ### Application Code
 
-* [The code is located in "code/raspbpi-customvision-app.py"](html://pastelink.com)
+* [The code is located in "code/raspbpi-customvision-app.py"](https://github.com/pradorodriguez/azureiotpyvision/blob/master/code/raspbpi-customvision-app.py)
 
 ### Python Libraries
 
