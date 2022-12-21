@@ -89,3 +89,5 @@
 * **MergeVisionTemperature Function:**
   * Creates a Dictonary variable IF temperature is higher than 32Celsius and Custom Vision Probability result is higher than 70%.
   * The Dictonary variable is used to create a JSON object
+
+## If you have any question, suggestion or comment about this repo or code, feel free to post it in this [discussion](https://github.com/pradorodriguez/azureiotpyvision/discussions/1) section. I will make sure to address all your concerns.
